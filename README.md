@@ -1,6 +1,6 @@
 # vue-mpa
 
-> vue-cli for creating multi-page application
+> vue-cli(2.x) for creating multi-page application
 
 ## Build Setup
 
